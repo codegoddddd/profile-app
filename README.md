@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # profile-app
 ## Overview
 
@@ -96,6 +96,5 @@ Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUT
 
 
 This project is licensed under the [MIT License](LICENSE).
-```
 
 Make sure to replace placeholder values such as `your-username`, `your-project`, and adjust the content based on the specifics of your project. Additionally, consider adding more details based on your project's unique characteristics.
