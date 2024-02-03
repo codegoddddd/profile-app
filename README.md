@@ -80,6 +80,9 @@ This project is a web application for managing user profiles. It includes featur
 
 ![Screenshot 1](./screenshots/screenshot1.png)
 ![Screenshot 2](./screenshots/screenshot2.png)
+![Screenshot 2](./screenshots/screenshot3.png)
+![Screenshot 2](./screenshots/screenshot4.png)
+![Screenshot 2](./screenshots/screenshot5.png)
 
 ## Future Enhancements
 
